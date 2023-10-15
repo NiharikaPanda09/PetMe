@@ -81,7 +81,7 @@
   flex-direction: row;
   border: 5px rgb(255, 249, 208) solid;
   align-items: center;
-  background-color: rgb(255, 231, 202);
+  background-color: rgb(13, 26, 40);
   border-radius: 50px;
   overflow: hidden;
   width: 49%;
@@ -116,7 +116,7 @@
   content: "";
   width: 100%;
   height: 100%;
-  background-color: rgb(255, 231, 202);
+  background-color: rgb(151, 87, 10);
   top: 0;
   opacity: 0;
 }
